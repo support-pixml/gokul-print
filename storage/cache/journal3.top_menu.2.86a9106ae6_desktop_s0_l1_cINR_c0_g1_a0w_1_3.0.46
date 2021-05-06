@@ -1,0 +1,131 @@
+<?php $val = array (
+  'css' => '.top-menu-2 .j-menu li.top-menu-item-1>a::before{content:\'\\e0cd\' !important;font-family:icomoon !important;color:rgba(0, 0, 0, 1)}.top-menu-2 .j-menu li.top-menu-item-1>a:first-child{font-family:\'Mada\';font-weight:400;color:rgba(0,0,0,1)}.top-menu-2>ul>.top-menu-item-1>a{text-align:left}.top-menu-2>ul>.top-menu-item-1>a>.links-text{display:block}.top-menu-2 > ul > .top-menu-item-1 > a .count-badge{position:relative}.top-menu-2 .j-menu li.top-menu-item-2>a::before{content:\'\\eab7\' !important;font-family:icomoon !important;color:rgba(0, 0, 0, 1)}.top-menu-2 .j-menu li.top-menu-item-2>a:first-child{color:rgba(4,4,4,1)}.top-menu-2>ul>.top-menu-item-2>a{text-align:left}.top-menu-2>ul>.top-menu-item-2>a>.links-text{display:block}.top-menu-2 > ul > .top-menu-item-2 > a .count-badge{position:relative}.top-menu-2 .j-menu li.top-menu-item-3>a:first-child{color:rgba(0,0,0,1)}.top-menu-2>ul>.top-menu-item-3>a{text-align:left}.top-menu-2>ul>.top-menu-item-3>a>.links-text{display:block}.top-menu-2 > ul > .top-menu-item-3 > a .count-badge{position:relative}',
+  'fonts' => 
+  array (
+    'fonts' => 
+    array (
+      'Mada' => 
+      array (
+        400 => '400',
+      ),
+    ),
+    'subsets' => 
+    array (
+      'latin-ext' => 'latin-ext',
+      'latin' => 'latin',
+    ),
+  ),
+  'settings' => 
+  array (
+    'scheduledStatus' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'status' => true,
+    'id' => 'top-menu-60938aa3d8cd5',
+    'module_id' => 2,
+    'classes' => 
+    array (
+      0 => 'top-menu',
+      1 => 'top-menu-2',
+    ),
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => '93281 13011',
+        'link' => 
+        array (
+          'type' => 'custom',
+          'id' => '7',
+          'href' => 'tel:+919328113011',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'top-menu-item',
+          2 => 'top-menu-item-1',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+          'icon-only' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      2 => 
+      array (
+        'title' => 'Track Order',
+        'link' => 
+        array (
+          'type' => 'information',
+          'id' => '6',
+          'href' => 'http://localhost/gokul-print/delivery',
+          'name' => 'Delivery Information',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'top-menu-item',
+          2 => 'top-menu-item-2',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+          'icon-only' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      3 => 
+      array (
+        'title' => 'India\'s Biggest Online Fabric Store',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '7',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'top-menu-item',
+          2 => 'top-menu-item-3',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+          'icon-only' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+);

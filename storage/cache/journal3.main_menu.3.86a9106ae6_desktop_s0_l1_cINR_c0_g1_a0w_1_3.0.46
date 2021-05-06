@@ -1,0 +1,872 @@
+<?php $val = array (
+  'css' => 'div.main-menu.main-menu-3 > .j-menu .menu-item.main-menu-item-1>a::before{font-size:20px}.desktop-main-menu-wrapper .menu-fullwidth>.j-dropdown{width:100vw;left:50%;margin-left:-50vw}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-1 .mega-menu-content{width:500px;position:relative;left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-1>.dropdown-menu::before{left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-1:not(.mega-fullwidth)>.dropdown-menu::before{display:block;margin-top:-10px}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-1.multi-level .dropdown-menu ul li .dropdown-menu{left:100%}.main-menu-3 .main-menu-item-1.mega-menu .grid-row-1{background:rgba(255, 255, 255, 1)}.main-menu-3 .main-menu-item-1.mega-menu .grid-row-1::before{left:0;width:100vw}.main-menu-3 .main-menu-item-1.mega-menu .grid-row-1 .grid-col-1{width:100%}.main-menu-3 .main-menu-item-1.mega-menu .grid-row-1 .grid-col-1 .grid-items{justify-content:center}@media (max-width: 1280px){.main-menu-3 .main-menu-item-1.mega-menu .grid-row-1 .grid-col-1{padding-left:20px}}@media (max-width: 760px){.main-menu-3 .main-menu-item-1.mega-menu .grid-row-1 .grid-col-1{width:100%;padding:0px}}div.main-menu.main-menu-3 > .j-menu .menu-item.main-menu-item-2>a::before{content:\'\\e934\' !important;font-family:icomoon !important;font-size:20px;margin-right:5px}div.main-menu.main-menu-3 > .j-menu li.main-menu-item-2>a{text-transform:uppercase !important}.desktop-main-menu-wrapper .menu-fullwidth>.j-dropdown{width:100vw;left:50%;margin-left:-50vw}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-2 .mega-menu-content{width:500px;position:relative;left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-2>.dropdown-menu::before{left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-2:not(.mega-fullwidth)>.dropdown-menu::before{display:block;margin-top:-10px}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-2.multi-level .dropdown-menu ul li .dropdown-menu{left:100%}div.main-menu.main-menu-3 > .j-menu .menu-item.main-menu-item-3>a::before{font-size:20px}.desktop-main-menu-wrapper .menu-fullwidth>.j-dropdown{width:100vw;left:50%;margin-left:-50vw}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-3 .mega-menu-content{width:500px;position:relative;left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-3>.dropdown-menu::before{left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-3:not(.mega-fullwidth)>.dropdown-menu::before{display:block;margin-top:-10px}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-3.multi-level .dropdown-menu ul li .dropdown-menu{left:100%}div.main-menu.main-menu-3 > .j-menu .menu-item.main-menu-item-4>a::before{font-size:20px}.desktop-main-menu-wrapper .menu-fullwidth>.j-dropdown{width:100vw;left:50%;margin-left:-50vw}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-4 .mega-menu-content{width:500px;position:relative;left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-4>.dropdown-menu::before{left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-4:not(.mega-fullwidth)>.dropdown-menu::before{display:block;margin-top:-10px}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-4.multi-level .dropdown-menu ul li .dropdown-menu{left:100%}div.main-menu.main-menu-3 > .j-menu .menu-item.main-menu-item-5>a::before{font-size:20px}.desktop-main-menu-wrapper .menu-fullwidth>.j-dropdown{width:100vw;left:50%;margin-left:-50vw}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-5 .mega-menu-content{width:500px;position:relative;left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-5>.dropdown-menu::before{left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-5:not(.mega-fullwidth)>.dropdown-menu::before{display:block;margin-top:-10px}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-5.multi-level .dropdown-menu ul li .dropdown-menu{left:100%}div.main-menu.main-menu-3 > .j-menu .menu-item.main-menu-item-6>a::before{font-size:20px}.desktop-main-menu-wrapper .menu-fullwidth>.j-dropdown{width:100vw;left:50%;margin-left:-50vw}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-6 .mega-menu-content{width:500px;position:relative;left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-6>.dropdown-menu::before{left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-6:not(.mega-fullwidth)>.dropdown-menu::before{display:block;margin-top:-10px}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-6.multi-level .dropdown-menu ul li .dropdown-menu{left:100%}div.main-menu.main-menu-3 > .j-menu .menu-item.main-menu-item-7>a::before{font-size:20px}.desktop-main-menu-wrapper .menu-fullwidth>.j-dropdown{width:100vw;left:50%;margin-left:-50vw}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-7 .mega-menu-content{width:500px;position:relative;left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-7>.dropdown-menu::before{left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-7:not(.mega-fullwidth)>.dropdown-menu::before{display:block;margin-top:-10px}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-7.multi-level .dropdown-menu ul li .dropdown-menu{left:100%}div.main-menu.main-menu-3 > .j-menu .menu-item.main-menu-item-10>a::before{content:\'\\f2c0\' !important;font-family:icomoon !important;font-size:20px}.desktop-main-menu-wrapper .menu-fullwidth>.j-dropdown{width:100vw;left:50%;margin-left:-50vw}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-10 .mega-menu-content{width:500px;position:relative;left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-10>.dropdown-menu::before{left:0;transform:none}.main-menu-3 > .j-menu li.main-menu-item-10>a::before{margin:0}.main-menu-3 > .j-menu li.main-menu-item-10 > a .links-text{display:none}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-10.multi-level .dropdown-menu ul li .dropdown-menu{left:100%}.main-menu-3 .main-menu-item-11>a::before{content:\'\\e990\' !important;font-family:icomoon !important}.main-menu-3 .mega-menu.main-menu-item-11 .dropdown-menu{width:800px}.desktop-header-active .flyout-menu-3 .main-menu-item-11.multi-level .dropdown-menu{left:100%}.main-menu-3 .main-menu-item-12>a::before{content:\'\\e91c\' !important;font-family:icomoon !important}.main-menu-3 .mega-menu.main-menu-item-12 .dropdown-menu{width:800px}.desktop-header-active .flyout-menu-3 .main-menu-item-12.multi-level .dropdown-menu{left:100%}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'status' => true,
+    'id' => 'main-menu',
+    'module_id' => 3,
+    'classes' => 
+    array (
+      0 => 'main-menu',
+      1 => 'main-menu-3',
+      'accordion-menu' => false,
+    ),
+    'display' => 'dropdown',
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => 'Fabrics',
+        'label' => '',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '242',
+          'href' => 'http://localhost/gokul-print/fabrics',
+          'name' => 'Fabrics',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'megamenu',
+        'mobileOpen' => false,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-1',
+          3 => 'dropdown',
+          4 => 'mega-menu',
+          'icon-only' => false,
+          'menu-fullwidth' => true,
+          'mega-fullwidth' => true,
+          'mega-custom' => false,
+          'drop-menu' => false,
+        ),
+        'grid_classes' => 
+        array (
+          0 => 'grid-rows',
+        ),
+        'rows' => 
+        array (
+          1 => 
+          array (
+            'classes' => 
+            array (
+              0 => 'grid-row',
+              1 => 'grid-row-1',
+            ),
+            'columns' => 
+            array (
+              1 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-col',
+                  1 => 'grid-col-1',
+                ),
+                'items' => 
+                array (
+                  1 => 
+                  array (
+                    'classes' => 
+                    array (
+                      0 => 'grid-item',
+                      1 => 'grid-item-1',
+                    ),
+                    'item' => 
+                    array (
+                      'id' => '310',
+                      'name' => 'Catalog Fabric',
+                      'type' => 'catalog',
+                    ),
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+        'isOpen' => false,
+      ),
+      2 => 
+      array (
+        'title' => 'What\'s New',
+        'label' => '',
+        'link' => 
+        array (
+          'type' => 'information',
+          'id' => '9',
+          'href' => 'http://localhost/gokul-print/new-arrival',
+          'name' => 'New Arrival',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => '',
+        'mobileOpen' => false,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-2',
+          'multi-level' => true,
+          'dropdown' => false,
+          'drop-menu' => 
+          array (
+            0 => false,
+            1 => false,
+          ),
+          'icon-only' => false,
+          'menu-fullwidth' => false,
+          'mega-fullwidth' => false,
+          'mega-custom' => false,
+        ),
+        'items' => 
+        array (
+        ),
+        'isOpen' => false,
+      ),
+      3 => 
+      array (
+        'title' => 'Best Seller',
+        'label' => '',
+        'link' => 
+        array (
+          'type' => 'information',
+          'id' => '10',
+          'href' => 'http://localhost/gokul-print/best-seller',
+          'name' => 'Best Seller',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => '',
+        'mobileOpen' => false,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-3',
+          'multi-level' => true,
+          'dropdown' => false,
+          'drop-menu' => 
+          array (
+            0 => false,
+            1 => false,
+          ),
+          'icon-only' => false,
+          'menu-fullwidth' => false,
+          'mega-fullwidth' => false,
+          'mega-custom' => false,
+        ),
+        'items' => 
+        array (
+        ),
+        'isOpen' => false,
+      ),
+      4 => 
+      array (
+        'title' => 'Dyeable & Dyed',
+        'label' => '',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '243',
+          'href' => 'http://localhost/gokul-print/dyeable-dyed',
+          'name' => 'Dyeable &amp; Dyed',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => '',
+        'mobileOpen' => false,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-4',
+          'multi-level' => true,
+          'dropdown' => false,
+          'drop-menu' => 
+          array (
+            0 => false,
+            1 => false,
+          ),
+          'icon-only' => false,
+          'menu-fullwidth' => false,
+          'mega-fullwidth' => false,
+          'mega-custom' => false,
+        ),
+        'items' => 
+        array (
+        ),
+        'isOpen' => false,
+      ),
+      5 => 
+      array (
+        'title' => 'Prints',
+        'label' => '',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '252',
+          'href' => 'http://localhost/gokul-print/print',
+          'name' => 'Print',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'multilevel',
+        'mobileOpen' => false,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-5',
+          'multi-level' => true,
+          'dropdown' => true,
+          'drop-menu' => 
+          array (
+            0 => false,
+            1 => true,
+          ),
+          'icon-only' => false,
+          'menu-fullwidth' => false,
+          'mega-fullwidth' => false,
+          'mega-custom' => false,
+        ),
+        'items' => 
+        array (
+          233 => 
+          array (
+            'category_id' => '233',
+            'parent_id' => '252',
+            'title' => 'Bandhej Prints',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c233',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'http://localhost/gokul-print/print/bandhej-prints',
+              'total' => '2',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          232 => 
+          array (
+            'category_id' => '232',
+            'parent_id' => '252',
+            'title' => 'Cibori Prints',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c232',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'http://localhost/gokul-print/print/cibori-prints',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          229 => 
+          array (
+            'category_id' => '229',
+            'parent_id' => '252',
+            'title' => 'Floral Prints',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c229',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'http://localhost/gokul-print/print/floral-prints',
+              'total' => '2',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          234 => 
+          array (
+            'category_id' => '234',
+            'parent_id' => '252',
+            'title' => 'Geometrical Prints',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c234',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'http://localhost/gokul-print/print/geometrical-prints',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          230 => 
+          array (
+            'category_id' => '230',
+            'parent_id' => '252',
+            'title' => 'Patola Prints',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c230',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'http://localhost/gokul-print/print/patola-prints',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          227 => 
+          array (
+            'category_id' => '227',
+            'parent_id' => '252',
+            'title' => 'Screen Block Prints',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c227',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'http://localhost/gokul-print/print/screen-block-prints',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          231 => 
+          array (
+            'category_id' => '231',
+            'parent_id' => '252',
+            'title' => 'Texture Floral Prints',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c231',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'http://localhost/gokul-print/print/texture-floral-prints',
+              'total' => '2',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          228 => 
+          array (
+            'category_id' => '228',
+            'parent_id' => '252',
+            'title' => 'Texture Prints',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c228',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'http://localhost/gokul-print/print/texture-prints',
+              'total' => '2',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+        ),
+        'isOpen' => false,
+      ),
+      6 => 
+      array (
+        'title' => 'Embroidery',
+        'label' => '',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '253',
+          'href' => 'http://localhost/gokul-print/embroidery',
+          'name' => 'Embroidery',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'multilevel',
+        'mobileOpen' => false,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-6',
+          'multi-level' => true,
+          'dropdown' => true,
+          'drop-menu' => 
+          array (
+            0 => false,
+            1 => true,
+          ),
+          'icon-only' => false,
+          'menu-fullwidth' => false,
+          'mega-fullwidth' => false,
+          'mega-custom' => false,
+        ),
+        'items' => 
+        array (
+          236 => 
+          array (
+            'category_id' => '236',
+            'parent_id' => '253',
+            'title' => 'Cotton Thread Work',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c236',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'http://localhost/gokul-print/embroidery/cotton-thread-work-embroidery',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          240 => 
+          array (
+            'category_id' => '240',
+            'parent_id' => '253',
+            'title' => 'Jari Cording ',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c240',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'http://localhost/gokul-print/embroidery/jari-cording-embroidery',
+              'total' => '2',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          241 => 
+          array (
+            'category_id' => '241',
+            'parent_id' => '253',
+            'title' => 'Lucknawi Dyeable White Thread',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c241',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'http://localhost/gokul-print/embroidery/lucknawi-dyeable-white-thread',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          235 => 
+          array (
+            'category_id' => '235',
+            'parent_id' => '253',
+            'title' => 'Multi Color Thread',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c235',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'http://localhost/gokul-print/embroidery/multi-color-thread-embroidery',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          237 => 
+          array (
+            'category_id' => '237',
+            'parent_id' => '253',
+            'title' => 'Print With Embroidery',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c237',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'http://localhost/gokul-print/embroidery/print-with-embroidery',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          238 => 
+          array (
+            'category_id' => '238',
+            'parent_id' => '253',
+            'title' => 'Sequence Tikki ',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c238',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'http://localhost/gokul-print/embroidery/sequence-tikki-embroidery',
+              'total' => '2',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          239 => 
+          array (
+            'category_id' => '239',
+            'parent_id' => '253',
+            'title' => 'Specific Hand Dyed',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c239',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'http://localhost/gokul-print/embroidery/specific-hand-dyed-embroidery',
+              'total' => '4',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+        ),
+        'isOpen' => false,
+      ),
+      7 => 
+      array (
+        'title' => 'Clothing',
+        'label' => '',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '244',
+          'href' => 'http://localhost/gokul-print/clothing',
+          'name' => 'Clothing',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'multilevel',
+        'mobileOpen' => false,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-7',
+          'multi-level' => true,
+          'dropdown' => true,
+          'drop-menu' => 
+          array (
+            0 => false,
+            1 => true,
+          ),
+          'icon-only' => false,
+          'menu-fullwidth' => false,
+          'mega-fullwidth' => false,
+          'mega-custom' => false,
+        ),
+        'items' => 
+        array (
+          246 => 
+          array (
+            'category_id' => '246',
+            'parent_id' => '244',
+            'title' => 'Sarees',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c246',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'http://localhost/gokul-print/clothing/sarees',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          245 => 
+          array (
+            'category_id' => '245',
+            'parent_id' => '244',
+            'title' => 'Suits',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c245',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'http://localhost/gokul-print/clothing/suits',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+        ),
+        'isOpen' => false,
+      ),
+      10 => 
+      array (
+        'title' => 'Sign In',
+        'label' => '',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '69',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'multilevel',
+        'mobileOpen' => false,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-10',
+          'multi-level' => true,
+          'dropdown' => true,
+          'drop-menu' => 
+          array (
+            0 => false,
+            1 => true,
+          ),
+          'icon-only' => true,
+          'menu-fullwidth' => false,
+          'mega-fullwidth' => false,
+          'mega-custom' => false,
+        ),
+        'items' => 
+        array (
+          11 => 
+          array (
+            'title' => 'Sign In',
+            'link' => 
+            array (
+              'type' => 'login_popup',
+              'id' => '',
+              'href' => 'javascript:open_login_popup()',
+              'name' => '',
+              'total' => NULL,
+              'attrs' => 
+              array (
+              ),
+              'classes' => 
+              array (
+              ),
+            ),
+            'type' => 'multilevel',
+            'position' => 'left',
+            'classes' => 
+            array (
+              0 => 'menu-item',
+              1 => 'main-menu-item-11',
+              'dropdown' => false,
+              'icon-only' => NULL,
+              'menu-fullwidth' => false,
+              'mega-fullwidth' => false,
+              'mega-custom' => false,
+              'drop-menu' => true,
+            ),
+            'items' => 
+            array (
+            ),
+            'isOpen' => false,
+          ),
+          12 => 
+          array (
+            'title' => 'Register',
+            'link' => 
+            array (
+              'type' => 'register_popup',
+              'id' => '',
+              'href' => 'javascript:open_register_popup()',
+              'name' => '',
+              'total' => NULL,
+              'attrs' => 
+              array (
+              ),
+              'classes' => 
+              array (
+              ),
+            ),
+            'type' => 'multilevel',
+            'position' => 'left',
+            'classes' => 
+            array (
+              0 => 'menu-item',
+              1 => 'main-menu-item-12',
+              'dropdown' => false,
+              'icon-only' => NULL,
+              'menu-fullwidth' => false,
+              'mega-fullwidth' => false,
+              'mega-custom' => false,
+              'drop-menu' => true,
+            ),
+            'items' => 
+            array (
+            ),
+            'isOpen' => false,
+          ),
+        ),
+        'isOpen' => false,
+      ),
+    ),
+  ),
+);

@@ -1,0 +1,407 @@
+<?php $val = array (
+  'category_id' => '252',
+  'parent_id' => '0',
+  'title' => 'Print',
+  'items' => 
+  array (
+    233 => 
+    array (
+      'category_id' => '233',
+      'parent_id' => '252',
+      'title' => 'Bandhej Prints',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c233',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'http://localhost/gokul-print/print/bandhej-prints',
+        'total' => '2',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    232 => 
+    array (
+      'category_id' => '232',
+      'parent_id' => '252',
+      'title' => 'Cibori Prints',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c232',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'http://localhost/gokul-print/print/cibori-prints',
+        'total' => '0',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    229 => 
+    array (
+      'category_id' => '229',
+      'parent_id' => '252',
+      'title' => 'Floral Prints',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c229',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'http://localhost/gokul-print/print/floral-prints',
+        'total' => '2',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    234 => 
+    array (
+      'category_id' => '234',
+      'parent_id' => '252',
+      'title' => 'Geometrical Prints',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c234',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'http://localhost/gokul-print/print/geometrical-prints',
+        'total' => '0',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    230 => 
+    array (
+      'category_id' => '230',
+      'parent_id' => '252',
+      'title' => 'Patola Prints',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c230',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'http://localhost/gokul-print/print/patola-prints',
+        'total' => '0',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    227 => 
+    array (
+      'category_id' => '227',
+      'parent_id' => '252',
+      'title' => 'Screen Block Prints',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c227',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'http://localhost/gokul-print/print/screen-block-prints',
+        'total' => '0',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    231 => 
+    array (
+      'category_id' => '231',
+      'parent_id' => '252',
+      'title' => 'Texture Floral Prints',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c231',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'http://localhost/gokul-print/print/texture-floral-prints',
+        'total' => '2',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    228 => 
+    array (
+      'category_id' => '228',
+      'parent_id' => '252',
+      'title' => 'Texture Prints',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c228',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'http://localhost/gokul-print/print/texture-prints',
+        'total' => '2',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+  'classes' => 
+  array (
+    0 => 'menu-item menu-item-c252',
+    'dropdown' => 
+    array (
+      233 => 
+      array (
+        'category_id' => '233',
+        'parent_id' => '252',
+        'title' => 'Bandhej Prints',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c233',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://localhost/gokul-print/print/bandhej-prints',
+          'total' => '2',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      232 => 
+      array (
+        'category_id' => '232',
+        'parent_id' => '252',
+        'title' => 'Cibori Prints',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c232',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://localhost/gokul-print/print/cibori-prints',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      229 => 
+      array (
+        'category_id' => '229',
+        'parent_id' => '252',
+        'title' => 'Floral Prints',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c229',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://localhost/gokul-print/print/floral-prints',
+          'total' => '2',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      234 => 
+      array (
+        'category_id' => '234',
+        'parent_id' => '252',
+        'title' => 'Geometrical Prints',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c234',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://localhost/gokul-print/print/geometrical-prints',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      230 => 
+      array (
+        'category_id' => '230',
+        'parent_id' => '252',
+        'title' => 'Patola Prints',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c230',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://localhost/gokul-print/print/patola-prints',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      227 => 
+      array (
+        'category_id' => '227',
+        'parent_id' => '252',
+        'title' => 'Screen Block Prints',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c227',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://localhost/gokul-print/print/screen-block-prints',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      231 => 
+      array (
+        'category_id' => '231',
+        'parent_id' => '252',
+        'title' => 'Texture Floral Prints',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c231',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://localhost/gokul-print/print/texture-floral-prints',
+          'total' => '2',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      228 => 
+      array (
+        'category_id' => '228',
+        'parent_id' => '252',
+        'title' => 'Texture Prints',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c228',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://localhost/gokul-print/print/texture-prints',
+          'total' => '2',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+    ),
+  ),
+  'link' => 
+  array (
+    'href' => 'http://localhost/gokul-print/print',
+    'total' => '0',
+    'classes' => 
+    array (
+    ),
+  ),
+);

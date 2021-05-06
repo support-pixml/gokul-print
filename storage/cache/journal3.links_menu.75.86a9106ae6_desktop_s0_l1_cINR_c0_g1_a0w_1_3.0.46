@@ -1,0 +1,138 @@
+<?php $val = array (
+  'css' => '.links-menu-75 .module-body{display:block;justify-content:flex-start;align-items:flex-start;;-webkit-overflow-scrolling:touch;;column-count:initial;column-rule-style:solid}.links-menu-75 .menu-item{border-width:1px 0 0 0;justify-content:flex-start;;flex-grow:0;width:auto}.links-menu-75 .menu-item a .links-text{white-space:normal;color:rgba(114, 118, 132, 1)}.links-menu-75 .menu-item
+a{justify-content:flex-start;;padding-bottom:5px}.links-menu-75 .menu-item a::before{content:\'\\f105\' !important;font-family:icomoon !important;margin-right:7px}.links-menu-75 .count-badge{display:none}.phone footer .links-menu-75 .module-title::before{display:none}.phone footer .links-menu-75 .module-title+.module-body>li{display:flex}div.links-menu-75 .title.module-title{font-family:\'Mada\';font-weight:700;font-size:14px;text-transform:uppercase;white-space:normal;overflow:visible;text-overflow:initial;font-family:\'PT Serif Caption\';font-weight:400;color:rgba(221, 221, 221, 1)}div.links-menu-75 .module-body{display:block;justify-content:flex-start;;-webkit-overflow-scrolling:touch}div.links-menu-75 .menu-item{border-width:1px 0 0 0;flex-grow:0}div.links-menu-75 .menu-item a .links-text{white-space:normal}.phone footer  div.links-menu-75 .module-title::before{display:none}.phone footer  div.links-menu-75 .module-title+.module-body>li{display:flex}@media (max-width: 760px){.links-menu-75 .menu-item
+a{padding-bottom:12px}}',
+  'fonts' => 
+  array (
+    'fonts' => 
+    array (
+      'Mada' => 
+      array (
+        700 => '700',
+      ),
+      'PT Serif Caption' => 
+      array (
+        400 => '400',
+      ),
+    ),
+    'subsets' => 
+    array (
+      'latin-ext' => 'latin-ext',
+      'latin' => 'latin',
+    ),
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => 'Customer Service',
+    'status' => true,
+    'id' => 'links-menu-60938aa419dbf',
+    'module_id' => 75,
+    'classes' => 
+    array (
+      0 => 'links-menu',
+      1 => 'links-menu-75',
+    ),
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => 'Contact',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'http://localhost/gokul-print/index.php?route=information/contact',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-1',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      2 => 
+      array (
+        'title' => 'Returns',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'http://localhost/gokul-print/index.php?route=account/return/add',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-2',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      3 => 
+      array (
+        'title' => 'Site Map',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'http://localhost/gokul-print/index.php?route=information/sitemap',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-3',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+);

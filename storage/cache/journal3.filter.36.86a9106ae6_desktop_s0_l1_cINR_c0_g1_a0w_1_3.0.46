@@ -1,0 +1,826 @@
+<?php $val = array (
+  'css' => '.reset-filter.btn,.reset-filter.btn:visited{font-size:12px;text-transform:none}.reset-filter.btn{padding:2px;padding-right:7px;padding-left:7px;min-width:20px;min-height:20px}.desktop .reset-filter.btn:hover{box-shadow:0 5px 30px -5px rgba(0,0,0,0.25)}.reset-filter.btn:active,.reset-filter.btn:hover:active,.reset-filter.btn:focus:active{box-shadow:inset 0 0 20px rgba(0,0,0,0.25)}.reset-filter.btn:focus{box-shadow:inset 0 0 20px rgba(0,0,0,0.25)}.reset-filter.btn.btn.disabled::after{font-size:20px}.reset-filter::before{content:\'\\e5c9\' !important;font-family:icomoon !important;font-size:11px;margin-right:3px}.mobile-filter-trigger.btn,.mobile-filter-trigger.btn:visited{color:rgba(0,0,0,1)}.mobile-filter-trigger.btn:hover{color:rgba(0, 0, 0, 1) !important;background:rgba(227, 172, 7, 1) !important}.mobile-filter-trigger.btn{background:rgba(255, 193, 7, 1)}.desktop .mobile-filter-trigger.btn:hover{box-shadow:0 5px 30px -5px rgba(0,0,0,0.15)}.mobile-filter-trigger.btn:active,.mobile-filter-trigger.btn:hover:active,.mobile-filter-trigger.btn:focus:active{box-shadow:inset 0 2px 8px rgba(0,0,0,0.15)}.mobile-filter-trigger.btn:focus{box-shadow:inset 0 0 20px rgba(0,0,0,0.25)}.mobile-filter-trigger.btn.btn.disabled::after{font-size:20px}.mobile-filter-trigger::before{content:\'\\e919\' !important;font-family:icomoon !important;margin-right:7px}.mobile-filter-trigger{left:50%;right:auto;transform:translate3d(-50%,0,0)}.module-filter-36 .count-badge{display:none}.module-filter-36 .extra-controls
+input{background:rgba(250, 250, 250, 1) !important;border-width:1px !important;border-style:solid !important;border-color:rgba(221, 221, 221, 1) !important;border-radius:2px !important;box-shadow:none}.module-filter-36 .extra-controls input:hover{background:rgba(245, 245, 245, 1) !important;border-color:rgba(223, 231, 247, 1) !important;box-shadow:none}.module-filter-36 .extra-controls input:focus, .module-filter-36 .extra-controls input:active{border-color:rgba(187, 198, 221, 1) !important}.module-filter-36 .extra-controls input:focus{box-shadow:none}.module-filter-36 .panel-body{max-height:250px;overflow-y:auto}.module-filter-36 label
+img{border-width:2px;border-style:solid;border-color:rgba(221, 221, 221, 1)}.module-filter-36 label:hover
+img{border-color:rgba(114, 118, 132, 1);box-shadow:0 5px 30px -5px rgba(0, 0, 0, 0.15)}.module-filter-36 label input:checked+img{border-color:rgba(114, 118, 132, 1)}.module-filter-36 .image-only label
+img{border-radius:50%}.module-filter-36 .image-only .panel-body>div>label{padding:calc(7px / 2)}.module-filter-36 .irs-line{transform:scaleY(.1);;background:rgba(52, 52, 56, 1)}.module-filter-36 .irs-bar{transform:scaleY(.1);;background:rgba(41, 41, 43, 1)}.module-filter-36 .irs-line, .module-filter-36 .irs-bar{border-radius:10px}.module-filter-36 .irs-slider{background:rgba(41, 41, 43, 1);border-radius:50%;box-shadow:0 5px 30px -5px rgba(0, 0, 0, 0.15);width:15px;height:15px;transform:translateY(5px)}.module-filter-36 .irs-slider:hover{background:rgba(208, 30, 36, 1)}@media (max-width: 470px){.mobile-filter-trigger.btn,.mobile-filter-trigger.btn:visited{font-size:11px}.module-filter-36 .irs-slider{width:25px;height:25px;transform:translateY(0px)}}.module-filter-36 .module-item-a10 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a10 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a11 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a11 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a22 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a22 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-o1 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-o1 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-o1{order:1}.module-filter-36 .module-item-o1 .count-badge{display:inline-flex}.module-filter-36 .module-item-a12 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a12 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a23 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a23 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-c .panel-body > div > label
+input{display:none}.module-filter-36 .module-item-c .panel-body > div > label input+*{margin:0}.module-filter-36 .module-item-c{order:0}.module-filter-36 .module-item-c .count-badge{display:none}.module-filter-36 .module-item-o2 .panel-body > div > label
+input{display:none}.module-filter-36 .module-item-o2 .panel-body > div > label input+*{margin:0}.module-filter-36 .module-item-o2{order:1}.module-filter-36 .module-item-o2 .count-badge{display:none}.module-filter-36 .module-item-a13 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a13 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a13 .count-badge{display:inline-flex}.module-filter-36 .module-item-a14 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a14 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a15 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a15 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a26 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a26 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-o5 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-o5 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-o5{order:1}.module-filter-36 .module-item-o5 .count-badge{display:inline-flex}.module-filter-36 .module-item-a27 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a27 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-f1 .count-badge{display:inline-flex}.module-filter-36 .module-item-m .panel-body > div > label
+input{display:none}.module-filter-36 .module-item-m .panel-body > div > label input+*{margin:0}.module-filter-36 .module-item-m{order:0}.module-filter-36 .module-item-m .count-badge{display:none}.module-filter-36 .module-item-o11 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-o11 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-o11{order:1}.module-filter-36 .module-item-o11 .count-badge{display:inline-flex}.module-filter-36 .module-item-p .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-p .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-p{order:-10}.module-filter-36 .module-item-a1 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a1 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-q .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-q .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-q{order:-1}.module-filter-36 .module-item-q .count-badge{display:none}.module-filter-36 .module-item-a2 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a2 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a3 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a3 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a4 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a4 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-t .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-t .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-t .count-badge{display:none}.module-filter-36 .module-item-a5 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a5 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a5 .count-badge{display:none}.module-filter-36 .module-item-a7 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a7 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a8 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a8 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a9 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a9 .panel-body > div > label input+*{margin:0
+5px}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => 'Filter',
+    'imageDimensions' => 
+    array (
+      'width' => 38,
+      'height' => 38,
+      'resize' => 'fill',
+    ),
+    'input' => 'checkbox',
+    'collapsed' => true,
+    'resetText' => 'Clear',
+    'mobileText' => 'Filter Products',
+    'status' => true,
+    'id' => 'filter-60938aa325936',
+    'module_id' => 36,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-filter',
+      2 => 'module-filter-36',
+    ),
+    'image_width' => 38,
+    'image_height' => 38,
+    'image_resize' => 'fill',
+    'currency_left' => '₹',
+    'currency_right' => '',
+    'items' => 
+    array (
+      'a10' => 
+      array (
+        'title' => 'test 7',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a10',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a10',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'a11' => 
+      array (
+        'title' => 'test 8',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a11',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a11',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'a22' => 
+      array (
+        'title' => 'Taste',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a22',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a22',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'o1' => 
+      array (
+        'title' => 'Radio',
+        'display' => 'both',
+        'input' => 'radio',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-o1',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-o1',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'o',
+        'key' => 'o',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'a12' => 
+      array (
+        'title' => 'Occasion',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a12',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a12',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'a23' => 
+      array (
+        'title' => 'Type',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a23',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a23',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'c' => 
+      array (
+        'title' => 'Subcategories',
+        'display' => 'both',
+        'input' => 'radio',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-c',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-c',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'c',
+        'key' => 'c',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => false,
+      ),
+      'o2' => 
+      array (
+        'title' => 'Color',
+        'display' => 'image',
+        'input' => 'radio',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-o2',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-o2',
+          'text-only' => false,
+          'image-only' => true,
+          2 => 'panel',
+        ),
+        'type' => 'o',
+        'key' => 'o',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => true,
+        'collapsed' => false,
+      ),
+      'a13' => 
+      array (
+        'title' => 'Style',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a13',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a13',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'a14' => 
+      array (
+        'title' => 'Dress Length',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a14',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a14',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'a15' => 
+      array (
+        'title' => 'Material',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a15',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a15',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'a26' => 
+      array (
+        'title' => 'Attribute 1',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a26',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a26',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'o5' => 
+      array (
+        'title' => 'Select',
+        'display' => 'both',
+        'input' => 'radio',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-o5',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-o5',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'o',
+        'key' => 'o',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'a27' => 
+      array (
+        'title' => 'Attribute 2',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a27',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a27',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'f1' => 
+      array (
+        'title' => 'Opencart Filter',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-f1',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-f1',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'f',
+        'key' => 'f',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'm' => 
+      array (
+        'title' => 'Brands',
+        'display' => 'image',
+        'input' => 'radio',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-m',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-m',
+          'text-only' => false,
+          'image-only' => true,
+          2 => 'panel',
+        ),
+        'type' => 'm',
+        'key' => 'm',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => true,
+        'collapsed' => false,
+      ),
+      'o11' => 
+      array (
+        'title' => 'Size',
+        'display' => 'text',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-o11',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-o11',
+          'text-only' => true,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'o',
+        'key' => 'o',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => false,
+      ),
+      'p' => 
+      array (
+        'title' => 'Price',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-p',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-p',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'p',
+        'key' => 'p',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => false,
+      ),
+      'a1' => 
+      array (
+        'title' => 'Description',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a1',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a1',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'q' => 
+      array (
+        'title' => 'Availability',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-q',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-q',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'q',
+        'key' => 'q',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => false,
+      ),
+      'a2' => 
+      array (
+        'title' => 'No. of Cores',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a2',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a2',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'a3' => 
+      array (
+        'title' => 'Clockspeed',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a3',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a3',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'a4' => 
+      array (
+        'title' => 'test 1',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a4',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a4',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      't' => 
+      array (
+        'title' => 'Tags',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-t',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-t',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 't',
+        'key' => 't',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'a5' => 
+      array (
+        'title' => 'test 2',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a5',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a5',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'a7' => 
+      array (
+        'title' => 'test 4',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a7',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a7',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'a8' => 
+      array (
+        'title' => 'test 5',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a8',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a8',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'a9' => 
+      array (
+        'title' => 'test 6',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a9',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a9',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+    ),
+  ),
+);

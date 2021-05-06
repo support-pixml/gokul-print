@@ -1,0 +1,201 @@
+<?php $val = array (
+  'data' => 
+  array (
+    28 => 
+    array (
+      'php' => 
+      array (
+        'type' => 'special',
+        'label' => 'Sale',
+        'display' => 'default',
+      ),
+      'js' => 
+      array (
+      ),
+      'fonts' => 
+      array (
+      ),
+      'css' => '.product-label-default.product-label-28{display:flex;margin-top:5px;margin-right:5px;position:relative;top:0;right:0;bottom:initial;left:initial;justify-content:flex-end}.product-label-diagonal.product-label-28{display:block}.product-label-diagonal.product-label-28>b{transform:scale(calc(10 / 10))}.product-label-28{order:0}.product-label-28
+b{background:rgba(46, 175, 35, 1)}.product-info .product-label-diagonal.product-label-28>b{transform:scale(calc(10 / 10))}',
+    ),
+    29 => 
+    array (
+      'php' => 
+      array (
+        'type' => 'custom',
+        'label' => 'New',
+        'display' => 'default',
+      ),
+      'js' => 
+      array (
+      ),
+      'fonts' => 
+      array (
+      ),
+      'css' => '.product-label-default.product-label-29{display:flex;margin-top:5px;margin-right:5px;position:absolute;top:0;right:initial;bottom:initial;left:0}.product-label-diagonal.product-label-29{display:block}.product-label-diagonal.product-label-29>b{transform:scale(calc(10 / 10))}.product-label-29
+b{background:rgba(46, 175, 35, 1)}.product-info .product-label-diagonal.product-label-29>b{transform:scale(calc(10 / 10))}',
+    ),
+    30 => 
+    array (
+      'php' => 
+      array (
+        'type' => 'outofstock',
+        'label' => 'New',
+        'display' => 'diagonal',
+      ),
+      'js' => 
+      array (
+      ),
+      'fonts' => 
+      array (
+      ),
+      'css' => '.product-label-default.product-label-30{display:flex;position:relative;top:0;right:0;bottom:initial;left:initial;justify-content:flex-end}.product-label-diagonal.product-label-30{display:block;margin:15px}.product-label-diagonal.product-label-30>b{transform:scale(calc(10 / 10))}.product-info .product-label-diagonal.product-label-30>b{transform:scale(calc(10 / 10))}',
+    ),
+    31 => 
+    array (
+      'php' => 
+      array (
+        'type' => 'custom',
+        'label' => 'Hot',
+        'display' => 'default',
+      ),
+      'js' => 
+      array (
+      ),
+      'fonts' => 
+      array (
+      ),
+      'css' => '.product-label-default.product-label-31{display:flex;margin-top:5px;margin-right:5px;position:relative;top:0;right:0;bottom:initial;left:initial;justify-content:flex-end}.product-label-diagonal.product-label-31{display:block}.product-label-diagonal.product-label-31>b{transform:scale(calc(10 / 10))}.product-label-31
+b{color:rgba(255, 255, 255, 1);font-weight:700;background:rgba(208, 30, 36, 1);padding:5px;padding-right:7px;padding-left:7px;color:rgba(41, 41, 43, 1);background:rgba(255, 193, 7, 1)}.product-info .product-label-diagonal.product-label-31>b{transform:scale(calc(10 / 10))}',
+    ),
+    133 => 
+    array (
+      'php' => 
+      array (
+        'type' => 'custom',
+        'label' => 'Free',
+        'display' => 'diagonal',
+      ),
+      'js' => 
+      array (
+      ),
+      'fonts' => 
+      array (
+      ),
+      'css' => '.product-label-default.product-label-133{display:flex;position:relative;top:0;right:0;bottom:initial;left:initial;justify-content:flex-end}.product-label-diagonal.product-label-133{display:block}.product-label-diagonal.product-label-133>b{transform:scale(calc(10 / 10))}.product-label-133
+b{color:rgba(255, 255, 255, 1);font-weight:700;background:rgba(208, 30, 36, 1);padding:5px;padding-right:7px;padding-left:7px}.product-info .product-label-diagonal.product-label-133>b{transform:scale(calc(10 / 10))}',
+    ),
+    146 => 
+    array (
+      'php' => 
+      array (
+        'type' => 'custom',
+        'label' => 'Online Only',
+        'display' => 'default',
+      ),
+      'js' => 
+      array (
+      ),
+      'fonts' => 
+      array (
+      ),
+      'css' => '.product-label-default.product-label-146{display:flex;margin-top:5px;margin-right:5px;position:relative;top:0;right:0;bottom:initial;left:initial;justify-content:flex-end}.product-label-diagonal.product-label-146{display:block;margin:18px}.product-label-diagonal.product-label-146>b{transform:scale(calc(10 / 10))}.product-label-146
+b{color:rgba(41, 41, 43, 1);background:rgba(255, 255, 255, 1);border-width:1px;border-style:solid;border-color:rgba(41, 41, 43, 1)}.product-info .product-label-diagonal.product-label-146>b{transform:scale(calc(10 / 10))}',
+    ),
+    217 => 
+    array (
+      'php' => 
+      array (
+        'type' => 'custom',
+        'label' => 'Top Brand',
+        'display' => 'default',
+      ),
+      'js' => 
+      array (
+      ),
+      'fonts' => 
+      array (
+      ),
+      'css' => '.product-label-default.product-label-217{display:flex;margin-top:5px;margin-right:5px;position:relative;top:0;right:0;bottom:initial;left:initial;justify-content:flex-end}.product-label-diagonal.product-label-217{display:block}.product-label-diagonal.product-label-217>b{transform:scale(calc(10 / 10))}.product-label-217
+b{color:rgba(255,255,255,1);font-weight:700;background:rgba(208,30,36,1);padding:5px;padding-right:7px;padding-left:7px;background:rgba(238,80,66,1)}.product-label-217{order:1}.product-label-217 b::before{content:\'\\e984\' !important;font-family:icomoon !important;font-size:13px;margin-right:3px}.product-info .product-label-diagonal.product-label-217>b{transform:scale(calc(10 / 10))}',
+    ),
+  ),
+  'all' => 
+  array (
+  ),
+  'special' => 
+  array (
+    28 => 28,
+  ),
+  'outofstock' => 
+  array (
+    30 => 30,
+  ),
+  'custom' => 
+  array (
+    391 => 
+    array (
+      29 => 29,
+    ),
+    390 => 
+    array (
+      29 => 29,
+    ),
+    389 => 
+    array (
+      29 => 29,
+    ),
+    388 => 
+    array (
+      29 => 29,
+    ),
+    387 => 
+    array (
+      29 => 29,
+    ),
+    386 => 
+    array (
+      29 => 29,
+    ),
+    385 => 
+    array (
+      29 => 29,
+    ),
+    384 => 
+    array (
+      29 => 29,
+    ),
+    383 => 
+    array (
+      29 => 29,
+    ),
+    382 => 
+    array (
+      29 => 29,
+    ),
+    381 => 
+    array (
+      29 => 29,
+    ),
+    380 => 
+    array (
+      29 => 29,
+    ),
+    379 => 
+    array (
+      29 => 29,
+    ),
+    378 => 
+    array (
+      29 => 29,
+    ),
+    377 => 
+    array (
+      29 => 29,
+    ),
+    308 => 
+    array (
+      29 => 29,
+    ),
+  ),
+);

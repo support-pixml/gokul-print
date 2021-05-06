@@ -1,0 +1,70 @@
+<?php $val = array (
+  'css' => 'div.links-menu-77 .module-body{padding-right:10px;padding-left:10px;display:flex;flex-direction:row;justify-content:flex-start;;-webkit-overflow-scrolling:touch}div.links-menu-77 .menu-item{border-width:0 0 0 1px;flex-grow:0}div.links-menu-77 .menu-item a .links-text{white-space:nowrap;color:rgba(187, 198, 221, 1)}.phone footer  div.links-menu-77 .module-title::before{display:none}.phone footer  div.links-menu-77 .module-title+.module-body>li{display:flex}@media (max-width: 470px){div.links-menu-77 .menu-item{flex-grow:0}div.links-menu-77 .module-body{justify-content:center}}div.links-menu-77 .links-menu-item-1 a .links-text{font-family:\'Mada\';font-weight:400}',
+  'fonts' => 
+  array (
+    'fonts' => 
+    array (
+      'Mada' => 
+      array (
+        400 => '400',
+      ),
+    ),
+    'subsets' => 
+    array (
+      'latin-ext' => 'latin-ext',
+      'latin' => 'latin',
+    ),
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => '',
+    'status' => true,
+    'id' => 'links-menu-60938aa427f6b',
+    'module_id' => 77,
+    'classes' => 
+    array (
+      0 => 'links-menu',
+      1 => 'links-menu-77',
+    ),
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => '© 2021 Gokul. All Rights Reserved | Developed By &nbsp;<a href="http://www.pixml.in" target="_blank"> PIXML Solutions</a>',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-1',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+);

@@ -1,0 +1,119 @@
+<?php $val = array (
+  'category_id' => '244',
+  'parent_id' => '0',
+  'title' => 'Clothing',
+  'items' => 
+  array (
+    246 => 
+    array (
+      'category_id' => '246',
+      'parent_id' => '244',
+      'title' => 'Sarees',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c246',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'http://localhost/gokul-print/clothing/sarees',
+        'total' => '0',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    245 => 
+    array (
+      'category_id' => '245',
+      'parent_id' => '244',
+      'title' => 'Suits',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c245',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'http://localhost/gokul-print/clothing/suits',
+        'total' => '0',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+  'classes' => 
+  array (
+    0 => 'menu-item menu-item-c244',
+    'dropdown' => 
+    array (
+      246 => 
+      array (
+        'category_id' => '246',
+        'parent_id' => '244',
+        'title' => 'Sarees',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c246',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://localhost/gokul-print/clothing/sarees',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      245 => 
+      array (
+        'category_id' => '245',
+        'parent_id' => '244',
+        'title' => 'Suits',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c245',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://localhost/gokul-print/clothing/suits',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+    ),
+  ),
+  'link' => 
+  array (
+    'href' => 'http://localhost/gokul-print/clothing',
+    'total' => '0',
+    'classes' => 
+    array (
+    ),
+  ),
+);

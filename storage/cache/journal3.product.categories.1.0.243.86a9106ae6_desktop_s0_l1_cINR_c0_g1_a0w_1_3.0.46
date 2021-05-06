@@ -1,0 +1,23 @@
+<?php $val = array (
+  'category_id' => '243',
+  'parent_id' => '0',
+  'title' => 'Dyeable &amp; Dyed',
+  'items' => 
+  array (
+  ),
+  'classes' => 
+  array (
+    0 => 'menu-item menu-item-c243',
+    'dropdown' => 
+    array (
+    ),
+  ),
+  'link' => 
+  array (
+    'href' => 'http://localhost/gokul-print/dyeable-dyed',
+    'total' => '0',
+    'classes' => 
+    array (
+    ),
+  ),
+);

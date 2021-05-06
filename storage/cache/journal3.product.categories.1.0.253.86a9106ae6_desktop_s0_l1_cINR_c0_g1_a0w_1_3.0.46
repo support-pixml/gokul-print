@@ -1,0 +1,359 @@
+<?php $val = array (
+  'category_id' => '253',
+  'parent_id' => '0',
+  'title' => 'Embroidery',
+  'items' => 
+  array (
+    236 => 
+    array (
+      'category_id' => '236',
+      'parent_id' => '253',
+      'title' => 'Cotton Thread Work',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c236',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'http://localhost/gokul-print/embroidery/cotton-thread-work-embroidery',
+        'total' => '0',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    240 => 
+    array (
+      'category_id' => '240',
+      'parent_id' => '253',
+      'title' => 'Jari Cording ',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c240',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'http://localhost/gokul-print/embroidery/jari-cording-embroidery',
+        'total' => '2',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    241 => 
+    array (
+      'category_id' => '241',
+      'parent_id' => '253',
+      'title' => 'Lucknawi Dyeable White Thread',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c241',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'http://localhost/gokul-print/embroidery/lucknawi-dyeable-white-thread',
+        'total' => '0',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    235 => 
+    array (
+      'category_id' => '235',
+      'parent_id' => '253',
+      'title' => 'Multi Color Thread',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c235',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'http://localhost/gokul-print/embroidery/multi-color-thread-embroidery',
+        'total' => '0',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    237 => 
+    array (
+      'category_id' => '237',
+      'parent_id' => '253',
+      'title' => 'Print With Embroidery',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c237',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'http://localhost/gokul-print/embroidery/print-with-embroidery',
+        'total' => '0',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    238 => 
+    array (
+      'category_id' => '238',
+      'parent_id' => '253',
+      'title' => 'Sequence Tikki ',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c238',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'http://localhost/gokul-print/embroidery/sequence-tikki-embroidery',
+        'total' => '2',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    239 => 
+    array (
+      'category_id' => '239',
+      'parent_id' => '253',
+      'title' => 'Specific Hand Dyed',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c239',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'http://localhost/gokul-print/embroidery/specific-hand-dyed-embroidery',
+        'total' => '4',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+  'classes' => 
+  array (
+    0 => 'menu-item menu-item-c253',
+    'dropdown' => 
+    array (
+      236 => 
+      array (
+        'category_id' => '236',
+        'parent_id' => '253',
+        'title' => 'Cotton Thread Work',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c236',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://localhost/gokul-print/embroidery/cotton-thread-work-embroidery',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      240 => 
+      array (
+        'category_id' => '240',
+        'parent_id' => '253',
+        'title' => 'Jari Cording ',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c240',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://localhost/gokul-print/embroidery/jari-cording-embroidery',
+          'total' => '2',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      241 => 
+      array (
+        'category_id' => '241',
+        'parent_id' => '253',
+        'title' => 'Lucknawi Dyeable White Thread',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c241',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://localhost/gokul-print/embroidery/lucknawi-dyeable-white-thread',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      235 => 
+      array (
+        'category_id' => '235',
+        'parent_id' => '253',
+        'title' => 'Multi Color Thread',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c235',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://localhost/gokul-print/embroidery/multi-color-thread-embroidery',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      237 => 
+      array (
+        'category_id' => '237',
+        'parent_id' => '253',
+        'title' => 'Print With Embroidery',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c237',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://localhost/gokul-print/embroidery/print-with-embroidery',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      238 => 
+      array (
+        'category_id' => '238',
+        'parent_id' => '253',
+        'title' => 'Sequence Tikki ',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c238',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://localhost/gokul-print/embroidery/sequence-tikki-embroidery',
+          'total' => '2',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      239 => 
+      array (
+        'category_id' => '239',
+        'parent_id' => '253',
+        'title' => 'Specific Hand Dyed',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c239',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://localhost/gokul-print/embroidery/specific-hand-dyed-embroidery',
+          'total' => '4',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+    ),
+  ),
+  'link' => 
+  array (
+    'href' => 'http://localhost/gokul-print/embroidery',
+    'total' => '0',
+    'classes' => 
+    array (
+    ),
+  ),
+);

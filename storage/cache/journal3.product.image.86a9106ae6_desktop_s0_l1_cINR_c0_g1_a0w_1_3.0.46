@@ -1,0 +1,18 @@
+<?php $val = array (
+  391 => 'catalog/prod4-2.JPG',
+  383 => 'catalog/prod-3.JPG',
+  381 => 'catalog/prod3-2.JPG',
+  380 => 'catalog/prod4-2.JPG',
+  379 => 'catalog/products/skyblue-seq-tikki-emb-2.jpg',
+  382 => 'catalog/prod2-1.JPG',
+  378 => 'catalog/prod5-2.JPG',
+  384 => 'catalog/prod5-2.JPG',
+  385 => 'catalog/prod3-2.JPG',
+  386 => 'catalog/prod6-2.JPG',
+  387 => 'catalog/prod-3.JPG',
+  388 => 'catalog/prod7-2.JPG',
+  389 => 'catalog/prod2-1.JPG',
+  390 => 'catalog/prod8-2.JPG',
+  308 => 'catalog/prod6-2.JPG',
+  377 => 'catalog/prod7-2.JPG',
+);

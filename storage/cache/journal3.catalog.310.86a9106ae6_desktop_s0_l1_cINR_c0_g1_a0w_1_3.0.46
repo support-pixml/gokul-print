@@ -1,0 +1,427 @@
+<?php $val = array (
+  'css' => '.module-catalog-310 .module-item.swiper-slide{margin-right:20px;width:calc((100% - 3 * 20px) / 4 - 0.01px)}.module-catalog-310 .module-item:not(.swiper-slide){padding:10px;width:calc(100% / 4 - 0.01px)}.one-column #content .module-catalog-310 .module-item.swiper-slide{margin-right:0px;width:calc((100% - 3 * 0px) / 4 - 0.01px)}.one-column #content .module-catalog-310 .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 4 - 0.01px)}.two-column #content .module-catalog-310 .module-item.swiper-slide{margin-right:0px;width:calc((100% - 2 * 0px) / 3 - 0.01px)}.two-column #content .module-catalog-310 .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 3 - 0.01px)}.side-column .module-catalog-310 .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.side-column .module-catalog-310 .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.module-catalog-310 .swiper-container{overflow:hidden}.module-catalog-310 .swiper-buttons{display:none !important;top:50%}.module-catalog-310 .swiper-button-prev{left:0;right:auto;transform:translate(0, -50%)}.module-catalog-310 .swiper-button-next{left:auto;right:0;transform:translate(0, -50%)}.module-catalog-310 .swiper-buttons
+div{width:24px;height:24px;background:rgba(41, 41, 43, 1);box-shadow:0 5px 30px -5px rgba(0, 0, 0, 0.15)}.module-catalog-310 .swiper-button-disabled{opacity:0}.module-catalog-310 .swiper-buttons div::before{content:\'\\e5c4\' !important;font-family:icomoon !important;color:rgba(255, 255, 255, 1)}.module-catalog-310 .swiper-buttons .swiper-button-next::before{content:\'\\e5c8\' !important;font-family:icomoon !important;color:rgba(255, 255, 255, 1)}.module-catalog-310 .swiper-buttons div:not(.swiper-button-disabled):hover{background:rgba(208, 30, 36, 1)}.module-catalog-310 .swiper-pagination{display:block;padding:10px;margin-bottom:-5px;left:50%;right:auto;transform:translateX(-50%)}.module-catalog-310
+.swiper{padding-bottom:20px}.module-catalog-310 .swiper-pagination-bullet{width:20px;height:5px;background-color:rgba(41, 41, 43, 1)}.module-catalog-310 .swiper-pagination>span+span{margin-left:5px}.desktop .module-catalog-310 .swiper-pagination-bullet:hover{background-color:rgba(200, 140, 86, 1)}.module-catalog-310 .swiper-pagination-bullet.swiper-pagination-bullet-active{background-color:rgba(200, 140, 86, 1)}.module-catalog-310  .item-content{background:rgba(255, 255, 255, 1)}.module-catalog-310 .catalog-title{margin-bottom:15px;display:flex;font-family:\'Mada\';font-weight:400;font-size:14px;color:rgba(0, 0, 0, 1);text-transform:uppercase;width:100%;margin-left:0;margin-right:auto;justify-content:flex-start;white-space:normal;overflow:visible;text-overflow:initial}.module-catalog-310
+.subitems{align-items:flex-start}.module-catalog-310 .subitem > a
+span{font-family:\'Mada\';font-weight:400;font-size:14px;color:rgba(0, 0, 0, 1)}.module-catalog-310 .subitem > a:hover
+span{color:rgba(208, 30, 36, 1)}.module-catalog-310 .subitem.view-more a
+span{font-size:12px;color:rgba(114, 118, 132, 1);text-decoration:underline}.module-catalog-310 .subitem.view-more a:hover
+span{color:rgba(0, 138, 221, 1)}.module-catalog-310 .subitem.view-more
+a{margin-left:5px}.module-catalog-310 .subitem.view-more a::before{content:none !important}.module-catalog-310 .subitem>a{white-space:normal;overflow:visible;text-overflow:initial;padding-bottom:10px}.module-catalog-310 .catalog-image{margin-right:10px;margin-bottom:10px}.module-catalog-310 .item-assets{flex-direction:column}.module-catalog-310 .item-assets>a{max-width:100%;order:0}.module-catalog-310 .item-assets
+.subitems{width:100%}.module-catalog-310 .item-assets .catalog-image{display:block}.module-catalog-310 .title.module-title{font-family:\'PT Serif Caption\';font-weight:400;text-align:left}.module-catalog-310 .title.module-title::after{left:initial;right:initial;margin-left:0;margin-right:auto;transform:none}.module-catalog-310 .title.module-title.page-title>span::after{left:initial;right:initial;margin-left:0;margin-right:auto;transform:none}.module-catalog-310 .module-body{margin-top:10px;margin-bottom:20px}.module-catalog-310 div.item-assets{flex-direction:column}.module-catalog-310 div.item-assets>a{max-width:100%;order:0}.module-catalog-310 div.item-assets
+.subitems{width:100%}.module-catalog-310 div.item-assets .catalog-image{display:block}@media (max-width: 1024px){.module-catalog-310 .module-item.swiper-slide{margin-right:20px;width:calc((100% - 3 * 20px) / 4 - 0.01px)}.module-catalog-310 .module-item:not(.swiper-slide){padding:10px;width:calc(100% / 4 - 0.01px)}.module-catalog-310 .swiper-buttons{display:none !important}.module-catalog-310 .swiper-pagination{display:block}}@media (max-width: 760px){.module-catalog-310 .module-item.swiper-slide{margin-right:20px;width:calc((100% - 2 * 20px) / 3 - 0.01px)}.module-catalog-310 .module-item:not(.swiper-slide){padding:10px;width:calc(100% / 3 - 0.01px)}.module-catalog-310 .item-assets{flex-direction:column}.module-catalog-310 .item-assets>a{max-width:100%;order:0}.module-catalog-310 .item-assets
+.subitems{width:100%}.module-catalog-310 .item-assets .catalog-image{display:block}}@media (max-width: 470px){.module-catalog-310 .module-item.swiper-slide{margin-right:20px;width:calc((100% - 1 * 20px) / 2 - 0.01px)}.module-catalog-310 .module-item:not(.swiper-slide){padding:10px;width:calc(100% / 2 - 0.01px)}}',
+  'fonts' => 
+  array (
+    'fonts' => 
+    array (
+      'Mada' => 
+      array (
+        400 => '400',
+      ),
+      'PT Serif Caption' => 
+      array (
+        400 => '400',
+      ),
+    ),
+    'subsets' => 
+    array (
+      'latin-ext' => 'latin-ext',
+      'latin' => 'latin',
+    ),
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => '',
+    'images' => true,
+    'imageDimensions' => 
+    array (
+      'width' => 400,
+      'height' => 150,
+      'resize' => 'fill',
+    ),
+    'itemsPerRow' => 
+    array (
+      'c0' => 
+      array (
+        0 => 
+        array (
+          'items' => 4,
+          'spacing' => 20,
+        ),
+        1024 => 
+        array (
+          'items' => 4,
+          'spacing' => 20,
+        ),
+        760 => 
+        array (
+          'items' => 3,
+          'spacing' => 20,
+        ),
+        470 => 
+        array (
+          'items' => 2,
+          'spacing' => 20,
+        ),
+      ),
+      'c1' => 
+      array (
+        0 => 
+        array (
+          'items' => 4,
+          'spacing' => 0,
+        ),
+      ),
+      'c2' => 
+      array (
+        0 => 
+        array (
+          'items' => 3,
+          'spacing' => 0,
+        ),
+      ),
+      'sc' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+    ),
+    'carousel' => false,
+    'viewMoreText' => 'View More',
+    'status' => true,
+    'id' => 'catalog-60938aa36af7e',
+    'module_id' => 310,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-catalog',
+      2 => 'module-catalog-310',
+      'carousel-mode' => false,
+      'image-on-hover' => true,
+    ),
+    'carouselOptions' => 
+    array (
+      'speed' => 500,
+      'autoplay' => 
+      array (
+        'delay' => 3000,
+      ),
+      'pauseOnHover' => true,
+      'loop' => true,
+    ),
+    'dummy_image' => 'http://localhost/gokul-print/image/cache/transparent-400x150.png',
+    'items' => 
+    array (
+      1 => 
+      array (
+        'limit' => '',
+        'id' => '310-1',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-1',
+          'swiper-slide' => false,
+        ),
+        'items' => 
+        array (
+          0 => 
+          array (
+            'name' => 'Chiffon Embroidery',
+            'href' => 'http://localhost/gokul-print/fabrics/embroidery-fabric/chiffon-embroidery-fabric',
+            'image' => 'http://localhost/gokul-print/image/cache/placeholder-400x150w.png',
+            'image2x' => 'http://localhost/gokul-print/image/cache/placeholder-800x300w.png',
+          ),
+          1 => 
+          array (
+            'name' => 'Cotton Embroidery',
+            'href' => 'http://localhost/gokul-print/fabrics/embroidery-fabric/cotton-embroidery-fabric',
+            'image' => 'http://localhost/gokul-print/image/cache/placeholder-400x150w.png',
+            'image2x' => 'http://localhost/gokul-print/image/cache/placeholder-800x300w.png',
+          ),
+          2 => 
+          array (
+            'name' => 'Dyeable / Lakhnavi',
+            'href' => 'http://localhost/gokul-print/fabrics/embroidery-fabric/dyeable-lakhnavi-embroidery-fabric',
+            'image' => 'http://localhost/gokul-print/image/cache/placeholder-400x150w.png',
+            'image2x' => 'http://localhost/gokul-print/image/cache/placeholder-800x300w.png',
+          ),
+          3 => 
+          array (
+            'name' => 'Georgette Embroidery',
+            'href' => 'http://localhost/gokul-print/fabrics/embroidery-fabric/georgette-embroidery-fabric',
+            'image' => 'http://localhost/gokul-print/image/cache/placeholder-400x150w.png',
+            'image2x' => 'http://localhost/gokul-print/image/cache/placeholder-800x300w.png',
+          ),
+          4 => 
+          array (
+            'name' => 'Mirror Work',
+            'href' => 'http://localhost/gokul-print/fabrics/embroidery-fabric/mirror-work-embroidery-fabric',
+            'image' => 'http://localhost/gokul-print/image/cache/placeholder-400x150w.png',
+            'image2x' => 'http://localhost/gokul-print/image/cache/placeholder-800x300w.png',
+          ),
+          5 => 
+          array (
+            'name' => 'Multi Thread Work',
+            'href' => 'http://localhost/gokul-print/fabrics/embroidery-fabric/multi-thread-work',
+            'image' => 'http://localhost/gokul-print/image/cache/placeholder-400x150w.png',
+            'image2x' => 'http://localhost/gokul-print/image/cache/placeholder-800x300w.png',
+          ),
+          6 => 
+          array (
+            'name' => 'Net Embroidery',
+            'href' => 'http://localhost/gokul-print/fabrics/embroidery-fabric/net-embroidery-fabric',
+            'image' => 'http://localhost/gokul-print/image/cache/placeholder-400x150w.png',
+            'image2x' => 'http://localhost/gokul-print/image/cache/placeholder-800x300w.png',
+          ),
+          7 => 
+          array (
+            'name' => 'Organza Embroidery',
+            'href' => 'http://localhost/gokul-print/fabrics/embroidery-fabric/organza-embroidery-fabric',
+            'image' => 'http://localhost/gokul-print/image/cache/placeholder-400x150w.png',
+            'image2x' => 'http://localhost/gokul-print/image/cache/placeholder-800x300w.png',
+          ),
+          8 => 
+          array (
+            'name' => 'Sequence Embroidery',
+            'href' => 'http://localhost/gokul-print/fabrics/embroidery-fabric/sequence-embroidery-fabric',
+            'image' => 'http://localhost/gokul-print/image/cache/placeholder-400x150w.png',
+            'image2x' => 'http://localhost/gokul-print/image/cache/placeholder-800x300w.png',
+          ),
+          9 => 
+          array (
+            'name' => 'Tusser Silk Embroidery',
+            'href' => 'http://localhost/gokul-print/fabrics/embroidery-fabric/tusser-silk-embroidery',
+            'image' => 'http://localhost/gokul-print/image/cache/placeholder-400x150w.png',
+            'image2x' => 'http://localhost/gokul-print/image/cache/placeholder-800x300w.png',
+          ),
+          10 => 
+          array (
+            'name' => 'Velvet Embroidery',
+            'href' => 'http://localhost/gokul-print/fabrics/embroidery-fabric/velvet-embroidery-fabric',
+            'image' => 'http://localhost/gokul-print/image/cache/placeholder-400x150w.png',
+            'image2x' => 'http://localhost/gokul-print/image/cache/placeholder-800x300w.png',
+          ),
+        ),
+        'image' => 'http://localhost/gokul-print/image/cache/catalog/categories/multi-color-thread-400x150w.jpg',
+        'name' => 'Embroidery Fabric',
+        'href' => 'http://localhost/gokul-print/fabrics/embroidery-fabric',
+        'image2x' => 'http://localhost/gokul-print/image/cache/catalog/categories/multi-color-thread-800x300w.jpg',
+        'total' => '11',
+      ),
+      2 => 
+      array (
+        'limit' => '',
+        'id' => '310-2',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-2',
+          'swiper-slide' => false,
+        ),
+        'items' => 
+        array (
+          0 => 
+          array (
+            'name' => 'Chanderi Print',
+            'href' => 'http://localhost/gokul-print/fabrics/print-fabric/chanderi-print-fabric',
+            'image' => 'http://localhost/gokul-print/image/cache/placeholder-400x150w.png',
+            'image2x' => 'http://localhost/gokul-print/image/cache/placeholder-800x300w.png',
+          ),
+          1 => 
+          array (
+            'name' => 'Chiffon Print',
+            'href' => 'http://localhost/gokul-print/fabrics/print-fabric/chiffon-print-fabric',
+            'image' => 'http://localhost/gokul-print/image/cache/placeholder-400x150w.png',
+            'image2x' => 'http://localhost/gokul-print/image/cache/placeholder-800x300w.png',
+          ),
+          2 => 
+          array (
+            'name' => 'Cotton Print',
+            'href' => 'http://localhost/gokul-print/fabrics/print-fabric/cotton-print-fabric',
+            'image' => 'http://localhost/gokul-print/image/cache/placeholder-400x150w.png',
+            'image2x' => 'http://localhost/gokul-print/image/cache/placeholder-800x300w.png',
+          ),
+          3 => 
+          array (
+            'name' => 'Crepe Print',
+            'href' => 'http://localhost/gokul-print/fabrics/print-fabric/crepe-print-fabric',
+            'image' => 'http://localhost/gokul-print/image/cache/placeholder-400x150w.png',
+            'image2x' => 'http://localhost/gokul-print/image/cache/placeholder-800x300w.png',
+          ),
+          4 => 
+          array (
+            'name' => 'Linen Print',
+            'href' => 'http://localhost/gokul-print/fabrics/print-fabric/linen-print-fabric',
+            'image' => 'http://localhost/gokul-print/image/cache/placeholder-400x150w.png',
+            'image2x' => 'http://localhost/gokul-print/image/cache/placeholder-800x300w.png',
+          ),
+          5 => 
+          array (
+            'name' => 'Mix Fabric',
+            'href' => 'http://localhost/gokul-print/fabrics/print-fabric/mix-fabric-print',
+            'image' => 'http://localhost/gokul-print/image/cache/placeholder-400x150w.png',
+            'image2x' => 'http://localhost/gokul-print/image/cache/placeholder-800x300w.png',
+          ),
+          6 => 
+          array (
+            'name' => 'Organza Print',
+            'href' => 'http://localhost/gokul-print/fabrics/print-fabric/organza-print-fabric',
+            'image' => 'http://localhost/gokul-print/image/cache/placeholder-400x150w.png',
+            'image2x' => 'http://localhost/gokul-print/image/cache/placeholder-800x300w.png',
+          ),
+          7 => 
+          array (
+            'name' => 'Satin Print',
+            'href' => 'http://localhost/gokul-print/fabrics/print-fabric/satin-print-fabric',
+            'image' => 'http://localhost/gokul-print/image/cache/placeholder-400x150w.png',
+            'image2x' => 'http://localhost/gokul-print/image/cache/placeholder-800x300w.png',
+          ),
+          8 => 
+          array (
+            'name' => 'Tusser Silk',
+            'href' => 'http://localhost/gokul-print/fabrics/print-fabric/tusser-silk-print-fabric',
+            'image' => 'http://localhost/gokul-print/image/cache/placeholder-400x150w.png',
+            'image2x' => 'http://localhost/gokul-print/image/cache/placeholder-800x300w.png',
+          ),
+          9 => 
+          array (
+            'name' => 'Velvet Print',
+            'href' => 'http://localhost/gokul-print/fabrics/print-fabric/velvet-print-fabric',
+            'image' => 'http://localhost/gokul-print/image/cache/placeholder-400x150w.png',
+            'image2x' => 'http://localhost/gokul-print/image/cache/placeholder-800x300w.png',
+          ),
+        ),
+        'image' => 'http://localhost/gokul-print/image/cache/catalog/categories/patola-print-400x150w.jpg',
+        'name' => 'Print Fabric',
+        'href' => 'http://localhost/gokul-print/fabrics/print-fabric',
+        'image2x' => 'http://localhost/gokul-print/image/cache/catalog/categories/patola-print-800x300w.jpg',
+        'total' => '10',
+      ),
+      3 => 
+      array (
+        'limit' => '',
+        'id' => '310-3',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-3',
+          'swiper-slide' => false,
+        ),
+        'items' => 
+        array (
+          0 => 
+          array (
+            'name' => 'Bemberg Satin',
+            'href' => 'http://localhost/gokul-print/fabrics/dyed-fabric/bemberg-satin',
+            'image' => 'http://localhost/gokul-print/image/cache/placeholder-400x150w.png',
+            'image2x' => 'http://localhost/gokul-print/image/cache/placeholder-800x300w.png',
+          ),
+          1 => 
+          array (
+            'name' => 'Cotton Satin',
+            'href' => 'http://localhost/gokul-print/fabrics/dyed-fabric/cotton-satin',
+            'image' => 'http://localhost/gokul-print/image/cache/placeholder-400x150w.png',
+            'image2x' => 'http://localhost/gokul-print/image/cache/placeholder-800x300w.png',
+          ),
+          2 => 
+          array (
+            'name' => 'Cotton Silk',
+            'href' => 'http://localhost/gokul-print/fabrics/dyed-fabric/cotton-silk',
+            'image' => 'http://localhost/gokul-print/image/cache/placeholder-400x150w.png',
+            'image2x' => 'http://localhost/gokul-print/image/cache/placeholder-800x300w.png',
+          ),
+          3 => 
+          array (
+            'name' => 'Crepe',
+            'href' => 'http://localhost/gokul-print/fabrics/dyed-fabric/crepe',
+            'image' => 'http://localhost/gokul-print/image/cache/placeholder-400x150w.png',
+            'image2x' => 'http://localhost/gokul-print/image/cache/placeholder-800x300w.png',
+          ),
+          4 => 
+          array (
+            'name' => 'Linen Satin',
+            'href' => 'http://localhost/gokul-print/fabrics/dyed-fabric/linen-satin',
+            'image' => 'http://localhost/gokul-print/image/cache/placeholder-400x150w.png',
+            'image2x' => 'http://localhost/gokul-print/image/cache/placeholder-800x300w.png',
+          ),
+          5 => 
+          array (
+            'name' => 'Modal',
+            'href' => 'http://localhost/gokul-print/fabrics/dyed-fabric/modal',
+            'image' => 'http://localhost/gokul-print/image/cache/placeholder-400x150w.png',
+            'image2x' => 'http://localhost/gokul-print/image/cache/placeholder-800x300w.png',
+          ),
+          6 => 
+          array (
+            'name' => 'Organza',
+            'href' => 'http://localhost/gokul-print/fabrics/dyed-fabric/organza',
+            'image' => 'http://localhost/gokul-print/image/cache/placeholder-400x150w.png',
+            'image2x' => 'http://localhost/gokul-print/image/cache/placeholder-800x300w.png',
+          ),
+          7 => 
+          array (
+            'name' => 'Tusser Silk',
+            'href' => 'http://localhost/gokul-print/fabrics/dyed-fabric/tusser-silk',
+            'image' => 'http://localhost/gokul-print/image/cache/placeholder-400x150w.png',
+            'image2x' => 'http://localhost/gokul-print/image/cache/placeholder-800x300w.png',
+          ),
+          8 => 
+          array (
+            'name' => 'Velvet',
+            'href' => 'http://localhost/gokul-print/fabrics/dyed-fabric/velvet',
+            'image' => 'http://localhost/gokul-print/image/cache/placeholder-400x150w.png',
+            'image2x' => 'http://localhost/gokul-print/image/cache/placeholder-800x300w.png',
+          ),
+        ),
+        'image' => 'http://localhost/gokul-print/image/cache/catalog/categories/bandhej-prints-400x150w.jpg',
+        'name' => 'Dyed Fabric',
+        'href' => 'http://localhost/gokul-print/fabrics/dyed-fabric',
+        'image2x' => 'http://localhost/gokul-print/image/cache/catalog/categories/bandhej-prints-800x300w.jpg',
+        'total' => '9',
+      ),
+      4 => 
+      array (
+        'limit' => '',
+        'id' => '310-4',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-4',
+          'swiper-slide' => false,
+        ),
+        'items' => 
+        array (
+          0 => 
+          array (
+            'name' => 'Jacquard',
+            'href' => 'http://localhost/gokul-print/fabrics/weaves/jacquard',
+            'image' => 'http://localhost/gokul-print/image/cache/placeholder-400x150w.png',
+            'image2x' => 'http://localhost/gokul-print/image/cache/placeholder-800x300w.png',
+          ),
+          1 => 
+          array (
+            'name' => 'Plain',
+            'href' => 'http://localhost/gokul-print/fabrics/weaves/plain',
+            'image' => 'http://localhost/gokul-print/image/cache/placeholder-400x150w.png',
+            'image2x' => 'http://localhost/gokul-print/image/cache/placeholder-800x300w.png',
+          ),
+        ),
+        'image' => 'http://localhost/gokul-print/image/cache/catalog/categories/cibori-print-400x150w.jpg',
+        'name' => 'Weaves',
+        'href' => 'http://localhost/gokul-print/fabrics/weaves',
+        'image2x' => 'http://localhost/gokul-print/image/cache/catalog/categories/cibori-print-800x300w.jpg',
+        'total' => '2',
+      ),
+    ),
+  ),
+);

@@ -1,0 +1,187 @@
+<?php $val = array (
+  'css' => '.module-blocks-257.blocks-grid .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.module-blocks-257.blocks-grid .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.one-column #content .module-blocks-257.blocks-grid .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.one-column #content .module-blocks-257.blocks-grid .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.two-column #content .module-blocks-257.blocks-grid .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.two-column #content .module-blocks-257.blocks-grid .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.side-column .module-blocks-257.blocks-grid .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.side-column .module-blocks-257.blocks-grid .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.module-blocks-257 .block-title{order:-2}.module-blocks-257 .block-header{display:flex;float:none;order:-1;justify-content:flex-start;align-items:flex-start}.module-blocks-257 .block-header
+img{display:flex}.module-blocks-257 .block-wrapper{display:flex}.module-blocks-257 .block-header
+i{float:none;display:flex}.module-blocks-257 .block-body{display:flex;flex-direction:column}.module-blocks-257 .module-item-1 .block-body{color:rgba(187, 198, 221, 1);display:flex;flex-direction:column}.module-blocks-257 .module-item-1 .block-body .block-content{color:rgba(245, 245, 245, 1)}.module-blocks-257 .module-item-1 .block-header{display:flex;float:none;order:-1;justify-content:center;align-items:center;margin-bottom:10px}.module-blocks-257 .module-item-1 .block-header
+img{display:flex}.module-blocks-257 .module-item-1 .block-wrapper{display:flex}.module-blocks-257 .module-item-1 .block-header
+i{float:none;display:flex}.module-blocks-257 .module-item-1 .block-content{text-align:center;column-count:initial;column-gap:20px;column-rule-width:1px;column-rule-style:solid;font-family:\'Mada\';font-weight:400;font-size:16px;color:rgba(41, 41, 43, 1);line-height:1.5;-webkit-font-smoothing:antialiased}.module-blocks-257 .module-item-1 .expand-content{max-height:100%;overflow:visible;max-height:70px}.module-blocks-257 .module-item-1 .block-footer
+.btn{width:auto;transform:scale(calc(100 / 100));transform-origin:center}.module-blocks-257 .module-item-1 .block-footer{text-align:center}.module-blocks-257 .module-item-1 .block-content
+a{display:inline-block}.module-blocks-257 .module-item-1 .block-content a:hover{color:rgba(208, 30, 36, 1)}.module-blocks-257 .module-item-1 .block-content
+p{margin-bottom:10px}.module-blocks-257 .module-item-1 .block-content
+em{color:rgba(114, 118, 132, 1)}.module-blocks-257 .module-item-1 .block-content
+h1{font-family:\'PT Serif Caption\';font-weight:400;margin-bottom:20px}.module-blocks-257 .module-item-1 .block-content
+h2{font-family:\'PT Serif Caption\';font-weight:400;margin-bottom:15px}.module-blocks-257 .module-item-1 .block-content
+h3{font-family:\'PT Serif Caption\';font-weight:400;font-size:32px;line-height:1;margin-bottom:15px}.module-blocks-257 .module-item-1 .block-content
+h4{font-family:\'PT Serif Caption\';font-weight:700;font-size:22px;text-transform:uppercase;margin-bottom:15px}.module-blocks-257 .module-item-1 .block-content
+h5{font-family:\'PT Serif Caption\';font-weight:400;font-size:18px;margin-bottom:15px}.module-blocks-257 .module-item-1 .block-content
+h6{font-family:\'PT Serif Caption\';font-weight:700;font-size:14px;color:rgba(255, 255, 255, 1);text-transform:uppercase;padding:5px;padding-right:8px;padding-left:8px;margin-bottom:10px;display:inline-block}.module-blocks-257 .module-item-1 .block-content
+blockquote{font-family:Georgia,serif;font-weight:400;font-size:15px;color:rgba(114, 118, 132, 1);font-style:italic;padding-top:15px;padding-bottom:15px;margin-top:20px;margin-bottom:20px;border-width:0;border-top-width:1px;border-bottom-width:1px;border-style:solid;border-color:rgba(221, 221, 221, 1);border-radius:3px;float:none;display:block}.module-blocks-257 .module-item-1 .block-content blockquote::before{margin-left:auto;margin-right:auto;float:left;content:\'\\e90b\' !important;font-family:icomoon !important;font-size:45px;color:rgba(114, 118, 132, 1);margin-right:10px}.module-blocks-257 .module-item-1 .block-content
+hr{margin-top:20px;margin-bottom:20px;border-color:rgba(221, 221, 221, 1);overflow:visible}.module-blocks-257 .module-item-1 .block-content hr::before{content:\'\\e993\' !important;font-family:icomoon !important;font-size:20px;color:rgba(221, 221, 221, 1);background:rgba(255, 255, 255, 1);width:40px;height:40px;border-radius:50%}.module-blocks-257 .module-item-1 .block-content .drop-cap{font-family:Georgia,serif !important;font-weight:700 !important;font-size:60px !important;font-family:Georgia,serif;font-weight:700;font-size:60px;margin-right:5px}.module-blocks-257 .module-item-1 .block-content .amp::before{content:\'\\e901\' !important;font-family:icomoon !important;font-size:25px;color:rgba(114, 118, 132, 1);left:1px;top:3px}.module-blocks-257 .module-item-1 .block-content .video-responsive{max-width:550px;margin:0px;margin-bottom:20px}',
+  'fonts' => 
+  array (
+    'fonts' => 
+    array (
+      'Mada' => 
+      array (
+        400 => '400',
+      ),
+      'PT Serif Caption' => 
+      array (
+        400 => '400',
+        700 => '700',
+      ),
+    ),
+    'subsets' => 
+    array (
+      'latin-ext' => 'latin-ext',
+      'latin' => 'latin',
+    ),
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'display' => 'grid',
+    'displayTablet' => '',
+    'displayPhone' => '',
+    'carousel' => false,
+    'itemsPerRow' => 
+    array (
+      'c0' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'c1' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'c2' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'sc' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+    ),
+    'default' => '',
+    'title' => '',
+    'imageDimensions' => 
+    array (
+      'width' => 200,
+      'height' => NULL,
+      'resize' => 'fill',
+    ),
+    'status' => true,
+    'id' => 'blocks-60938aa3ec9e0',
+    'module_id' => 257,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-blocks',
+      2 => 'module-blocks-257',
+      3 => 'blocks-grid',
+      'carousel-mode' => false,
+    ),
+    'carouselOptions' => 
+    array (
+      'speed' => 0,
+      'autoplay' => false,
+      'pauseOnHover' => false,
+      'loop' => false,
+    ),
+    'default_index' => 0,
+    'items' => 
+    array (
+      1 => 
+      array (
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'header' => 'none',
+        'text' => '',
+        'alt' => '',
+        'contentType' => 'html',
+        'shortDescriptionLimit' => '150',
+        'dynamic' => 'journal3/blocks_example',
+        'expandButton' => false,
+        'footer' => 'none',
+        'footerText' => '',
+        'footerButton' => '',
+        'footerButtonLink' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '257-1',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-1',
+          'tab-pane' => false,
+          'active' => false,
+          'panel' => false,
+          'panel-active' => false,
+          'swiper-slide' => false,
+        ),
+        'tab_classes' => 
+        array (
+          0 => 'tab-1',
+          'active' => false,
+        ),
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+          'in' => false,
+        ),
+        'image' => 'http://localhost/gokul-print/image/cache/placeholder-200x200fill.png',
+        'image2x' => 'http://localhost/gokul-print/image/cache/placeholder-400x400fill.png',
+        'title' => '',
+        'content' => '<p><b>Head Office:</b><span> B-74-77, Central Park, Pandesara, GIDC, Surat-394221, Gujarat, India</span></p><p><strong>Sales Office:&nbsp;</strong>A-I Hall, Wing-A, Upper Ground, Millennium Textile Market, Ring Road, Surat-395002</p>',
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+);
